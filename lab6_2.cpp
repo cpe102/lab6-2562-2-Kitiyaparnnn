@@ -25,7 +25,7 @@ int main()
     cout<<"Fahsai: "<<date<<"....that is OK!!! I'm looking forward to watch "<<movie<<" with you."<<"\n";
     cout<<""<<name<<": ";
     getline(cin,text);
-    cout<<"Fahsai: 555+ see you Next Monday. Bye Bye \(^ ^)/ ";
+    cout<<"Fahsai: 555+ see you Next Monday. Bye Bye \\(^ ^)/ ";
 
 
 }
